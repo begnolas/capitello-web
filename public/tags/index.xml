@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Twenty Twenty Hugo</title>
+    <link>http://localhost:1313/twenty-twenty/site/tags/</link>
+    <description>Recent content in Tags on Twenty Twenty Hugo</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Mar 2020 15:40:24 +0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/twenty-twenty/site/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day</title>
+      <link>http://localhost:1313/twenty-twenty/site/tags/day/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      <guid>http://localhost:1313/twenty-twenty/site/tags/day/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fashion</title>
+      <link>http://localhost:1313/twenty-twenty/site/tags/fashion/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      <guid>http://localhost:1313/twenty-twenty/site/tags/fashion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lifestyle</title>
+      <link>http://localhost:1313/twenty-twenty/site/tags/lifestyle/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      <guid>http://localhost:1313/twenty-twenty/site/tags/lifestyle/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tour</title>
+      <link>http://localhost:1313/twenty-twenty/site/tags/tour/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      <guid>http://localhost:1313/twenty-twenty/site/tags/tour/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Visit</title>
+      <link>http://localhost:1313/twenty-twenty/site/tags/visit/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      <guid>http://localhost:1313/twenty-twenty/site/tags/visit/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Work</title>
+      <link>http://localhost:1313/twenty-twenty/site/tags/work/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      <guid>http://localhost:1313/twenty-twenty/site/tags/work/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
