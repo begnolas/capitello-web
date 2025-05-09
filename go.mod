@@ -1,5 +1,4 @@
 module gethugothemes.com
 
-go 1.19
-
-require github.com/gethugothemes/hugo-modules/images v0.0.0-20250112030311-a0de82520a5a // indirect
+go 1.24.2
+require github.com/gethugothemes/hugo-modules/images v0.0.0-20250506103127-ece249538add // indirect
