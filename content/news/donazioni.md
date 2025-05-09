@@ -1,6 +1,6 @@
 ---
 title: "Ringraziamento per le donazioni"
-date: 2025-06-02T15:40:24+06:00
+date: 2025-05-02T15:40:24+06:00
 image : "images/2020-three-quarters-1.png"
 author : ["Admin"]
 categories: ["news"]
