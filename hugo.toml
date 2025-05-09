@@ -55,7 +55,7 @@ heading = "Una frase di apertura che racconti il senso di questo spazio (“Un l
 [params.call_to_action]
 enable = true
 title = "Contattaci per maggiori informazioni"
-content = "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis"
+content = ""
 button_label = "Contattaci"
 button_url = "contatti/"
 
