@@ -1,12 +1,19 @@
 ######################## default configuration ####################
 baseURL = "https://demo.gethugothemes.com/twenty-twenty/site/"
 theme = "twenty-twenty-hugo"
+
+
+defaultContentLanguage = 'it'
+
 # post pagination
 pagination.pagerSize = "6"
+
 # post excerpt
 summaryLength = "10"
+
 # disable language
 disableLanguages = [] # disable language from here
+
 # google analytics
 googleAnalytics = "" # example : UA-123-45
 
