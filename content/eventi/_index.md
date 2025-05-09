@@ -1,7 +1,10 @@
 ---
-title: "Chi siamo"
+title: "Eventi"
 description: "This is meta description"
 draft: false
 ---
 
-You might be an artist who would like to introduce yourself and your work here or maybe you&rsquo;re a business with a mission to describe.
+
+
+- Creare una lista dinamica di eventi futuri (es. messa in ricordo, inaugurazione del gioco, raduni informali).
+- Per ora scrivere “In programmazione – vi aggiorneremo presto”.

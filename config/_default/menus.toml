@@ -16,7 +16,7 @@ weight = 2
 
 [[main]]
 name = "Eventi"
-URL = "aventi/"
+URL = "eventi/"
 weight = 3
 
 [[main]]
@@ -26,8 +26,8 @@ weight = 4
 
 
 [[main]]
-name = "Contatti"
-URL = "contatti/"
+name = "Iscriviti alla newsletter"
+URL = "newsletter/"
 weight = 5
 
 

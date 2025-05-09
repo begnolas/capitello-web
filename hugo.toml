@@ -46,17 +46,17 @@ button = "I Accept"
 
 # blog
 [params.news]
-heading = "The premier destination for modern art in Northern Sweden. Open from 10 AM to 6 PM every day during the summer months."
+heading = "Una frase di apertura che racconti il senso di questo spazio (“Un luogo per ricordare, condividere e continuare il suo sorriso”)."
 
 
 
 # call to action
 [params.call_to_action]
 enable = true
-title = "Contact us for more information."
+title = "Contattaci per maggiori informazioni"
 content = "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis"
-button_label = "Contact Us"
-button_url = "contact/"
+button_label = "Contattaci"
+button_url = "contatti/"
 
 
 
