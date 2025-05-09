@@ -1,3 +1,18 @@
+title = 'Ciao Capitello'
+languageCode = 'it-IT'
+languageName = "It"
+
+
+
+# banner
+[params.banner]
+heading = "Dove vorresti essere pensato? <br />Su una piroga, in giro"
+image = "images/capo.png"
+
+
+
+
+
 
 # unsafe html
 [markup.goldmark.renderer]
@@ -27,10 +42,7 @@ button = "I Accept"
 
 
 
-# banner
-[params.banner]
-heading = "The New UMoMA Opens its Doors"
-image = "images/2020-landscape-1-2.png"
+
 
 # blog
 [params.blog]
