@@ -4503,7 +4503,7 @@ a.to-the-top>* {
 }
 
 .footer-copyright {
-	font-weight: 600;
+	font-weight: 300;
 	margin: 0;
 }
 
@@ -5612,7 +5612,7 @@ a.to-the-top>* {
 	/* FOOTER BOTTOM */
 
 	#site-footer {
-		font-size: 1.8rem;
+		font-size: 1.3rem;
 		padding: 4.3rem 0;
 	}
 
@@ -5621,7 +5621,7 @@ a.to-the-top>* {
 	}
 
 	.footer-copyright {
-		font-weight: 700;
+		font-weight: 300;
 	}
 
 	.powered-by-wordpress {

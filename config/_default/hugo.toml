@@ -11,8 +11,8 @@ disableLanguages = [] # disable language from here
 googleAnalytics = "" # example : UA-123-45
 
 
-[services.disqus]
-shortname = 'themefisher-template' # we use disqus to show comments in blog posts . To install disqus please follow this tutorial https://portfolio.peter-baumgartner.net/2017/09/10/how-to-install-disqus-on-hugo/
+#[services.disqus]
+#shortname = 'themefisher-template' # we use disqus to show comments in blog posts . To install disqus please follow this tutorial https://portfolio.peter-baumgartner.net/2017/09/10/how-to-install-disqus-on-hugo/
 
 ############################## Output ###############################
 [outputs]

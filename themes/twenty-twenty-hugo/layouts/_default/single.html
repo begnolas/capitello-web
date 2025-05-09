@@ -91,12 +91,17 @@
       </ul><!-- .post-meta -->
 
 
-      <!-- comments -->
+      <!-- comments    -->
+
       {{ if site.Config.Services.Disqus.Shortname }}
       <hr class="styled-separator is-style-wide" aria-hidden="true">
       <div id="comments">
         {{ template "_internal/disqus.html" . }}
       </div>
+   
+
+
+
       {{ end }}
     </div><!-- .post-meta-wrapper -->
   </div><!-- .section-inner -->

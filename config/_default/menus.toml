@@ -1,35 +1,47 @@
 
 ############################## navigation ###############################
 
+
 # main menu
 [[main]]
 name = "Home"
 URL = "/"
 weight = 1
 
+
 [[main]]
-name = "About"
-URL = "about/"
+name = "News"
+URL = "news/"
 weight = 2
 
 [[main]]
-name = "Blog"
-URL = "blog/"
+name = "Eventi"
+URL = "aventi/"
 weight = 3
 
 [[main]]
-name = "Contact"
-URL = "contact/"
+name = "Archivio"
+URL = "archivio/"
 weight = 4
 
+
 [[main]]
-name = "Sample Page"
-URL = "sample-page/"
+name = "Contatti"
+URL = "contatti/"
 weight = 5
+
+
+
+[[main]]
+name = "Chi siamo"
+URL = "chi-siamo/"
+weight = 6
+
+
+
 
 # only desktop menu
 [[desktop]]
-name = "Contact"
-URL = "contact/"
+name = "News"
+URL = "news/"
 weight = 1
-
