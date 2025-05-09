@@ -24,3 +24,13 @@ googleAnalytics = "" # example : UA-123-45
 ############################## Output ###############################
 [outputs]
 home = ["HTML", "RSS", "JSON"]
+
+
+
+
+[it]
+languageName = "It"
+languageCode = "it-IT"
+contentDir = "content"
+weight = 1
+

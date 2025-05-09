@@ -63,7 +63,7 @@ function executeSearch(searchQuery) {
     if (result.length > 0) {
       populateResults(result);
     } else {
-      $('#search-results').append("<div class='has-text-align-center' style='font-size:2.6rem; padding-top:8rem;'>We could not find any results for your search.</div>");
+      $('#search-results').append("<div class='has-text-align-center' style='font-size:2.6rem; padding-top:8rem;'>Nessun risultato.</div>");
     }
   });
 }

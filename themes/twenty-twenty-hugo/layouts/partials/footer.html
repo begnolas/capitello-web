@@ -74,7 +74,9 @@
 {{ $search := resources.Get "js/search.js" | minify}}
 <script src="{{ $search.Permalink }}"></script>
 
+<!--
 <script src="{{`plugins/search.js` | absURL }}"></script>
+-->
 
 
 <!-- cookie -->

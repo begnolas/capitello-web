@@ -37,8 +37,8 @@ favicon = "images/favicon.png"
 [params.cookies]
 enable = true
 expire_days = 2
-content = "This site uses cookies. By continuing to use this website, you agree to their use."
-button = "I Accept"
+content = "Questo sito utilizza i cookie. Continuando a navigare, acconsenti al loro utilizzo."
+button = "Accetto"
 
 
 
