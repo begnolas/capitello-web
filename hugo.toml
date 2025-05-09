@@ -1,6 +1,10 @@
 title = 'Ciao Capitello'
+baseURL = "https://www.painfulstaff.com/capitello/"
 
 
+[params]
+description = "This is meta description"
+author = "Begna"
 
 
 
@@ -24,10 +28,7 @@ tag = "tags"
 author = "author"
 
 #################### default parameters ################################
-[params]
-# Meta data
-description = "This is meta description"
-author = "Themefisher"
+
 
 # favicon
 [params.favicon]

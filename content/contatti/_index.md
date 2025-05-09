@@ -1,9 +1,6 @@
 ---
-title: "Contact"
-bg_image: "images/2020-landscape-2.png"
-# meta description
+title: "Contatti"
 description: "This is meta description"
-# save as draft
 draft: false
 ---
 
