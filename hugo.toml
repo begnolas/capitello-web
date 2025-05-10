@@ -67,7 +67,7 @@ button_url = "contatti/"
 enable = true
 
 [[params.gallery.gallery_item]]
-image = "images/2020-square-2.png"
+image = "images/gallery_01.png"
 
 [[params.gallery.gallery_item]]
 image = "images/2020-square-1.png"
