@@ -54,7 +54,7 @@ heading = "Una frase di apertura che racconti il senso di questo spazio (“Un l
 # call to action
 [params.call_to_action]
 enable = true
-title = "Vuoi ricevere aggiornamenti su come stiamo portando avanti i progetti in ricordo di Lele? Lascia la tua email, ti scriveremo solo per cose davvero importanti."
+title = "Vuoi ricevere aggiornamenti su come stiamo portando avanti i progetti in ricordo di Lele? <br />Lascia la tua email, ti scriveremo solo per cose davvero importanti."
 content = ""
 button_label = "Contattaci"
 button_url = "contatti/"
