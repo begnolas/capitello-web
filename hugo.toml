@@ -47,8 +47,7 @@ button = "Accetto"
 
 # blog
 [params.news]
-heading = "Una frase di apertura che racconti il senso di questo spazio (“Un luogo per ricordare, condividere e continuare il suo sorriso”)."
-
+heading = "Uno spazio dove ricordare Lele e proseguire il suo impegno."
 
 
 # call to action
@@ -83,8 +82,8 @@ image = "images/2020-three-quarters-1.png"
 
 # footer
 [params.footer]
-title = "About This Site"
-content = "This may be a good place to introduce yourself and your site or include some credits."
+title = "About"
+content = "Uno spazio dove ricordare Lele e proseguire il suo impegno."
 copyright = "Copyright &copy; 2021 a hugo theme by themefisher ported from WordPress Twenty Twenty."
 
 
