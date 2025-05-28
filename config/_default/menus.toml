@@ -1,13 +1,11 @@
 
 ############################## navigation ###############################
 
-
 # main menu
 [[main]]
 name = "Home"
 URL = "/"
 weight = 1
-
 
 [[main]]
 name = "News"
@@ -24,19 +22,15 @@ name = "Archivio"
 URL = "archivio/"
 weight = 4
 
-
 [[main]]
 name = "Iscriviti alla newsletter"
 URL = "newsletter/"
 weight = 5
 
-
-
 [[main]]
 name = "Chi siamo"
 URL = "chi-siamo/"
 weight = 6
-
 
 
 
