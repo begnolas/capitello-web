@@ -1,6 +1,5 @@
 ---
 title: "Eventi"
-description: "This is meta description"
-draft: false
+summary: "In aggiornamento."
 ---
 
