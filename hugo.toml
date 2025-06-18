@@ -69,15 +69,15 @@ enable = true
 image = "images/gallery_01.png"
 
 [[params.gallery.gallery_item]]
-image = "images/2020-three-quarters-1.png"
+image = "images/gallery_02.png"
 
 
 [[params.gallery.gallery_item]]
-image = "images/2020-three-quarters-2.png"
+image = "images/gallery_03.png"
 
 
 [[params.gallery.gallery_item]]
-image = "images/2020-three-quarters-1.png"
+image = "images/gallery_04.png"
 
 
 # footer
