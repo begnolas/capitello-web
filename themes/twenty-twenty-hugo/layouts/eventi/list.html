@@ -1,19 +1,10 @@
-<h1>{{ .Title }}</h1>
-<p>{{ .Summary }}</p>
-<p>Ciao</p>
-<div>
-	{{ range .Pages }}
-		{{ .Render "li" }}
-	{{ end }}
-</div>
-<div>
-	{{ range .Data.Pages }}
-		{{ .Render "li" }}
-	{{ end }}
-</div>
+{{ define "main" }}
 
+
+
+<h1>{{ .Title }}</h1>
 {{ range .Data.Pages }}
 {{ .Render "post" }}
 {{ end }}
 
-
+{{ end }}

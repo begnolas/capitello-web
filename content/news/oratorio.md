@@ -6,7 +6,7 @@ author : ["Admin"]
 categories: ["news"]
 tags: ["oratorio" , "donazioni"]
 description: "This is meta description"
-draft: false
+draft: true
 ---
 
 

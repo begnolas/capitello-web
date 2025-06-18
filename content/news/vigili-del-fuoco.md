@@ -6,7 +6,7 @@ author : ["Admin"]
 categories: ["news"]
 tage: ["tags"]
 description: "This is meta description"
-draft: false
+draft: true
 ---
 
 - Comunicare che la richiesta è stata protocollata e approvata dal Comune.

@@ -6,7 +6,8 @@ author : ["begna"]
 categories: ["news"]
 tags: ["donazioni"]
 description: "This is meta description"
-draft: false
+layout: "post"
+draft: true
 ---
 
 
