@@ -1,7 +1,5 @@
 ---
-title: "Blog"
-# meta description
+title: "News"
 description: "This is meta description"
-# save as draft
 draft: false
 ---

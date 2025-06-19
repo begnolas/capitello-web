@@ -1,5 +1,5 @@
 ---
 title: "Eventi"
-summary: "In aggiornamento."
 ---
 
+In aggiornamento.

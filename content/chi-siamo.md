@@ -1,7 +1,6 @@
 ---
 title: "Chi siamo"
 description: "Chi siamo"
-layout: "single"
 draft: false
 ---
 

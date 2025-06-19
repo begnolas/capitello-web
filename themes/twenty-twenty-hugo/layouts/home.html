@@ -32,8 +32,8 @@
           <div class="wp-block-group">
             <div class="wp-block-group__inner-container">
               <div class="wp-block-image alignfull size-full">
-                  {{ partial "image.html" (dict "Src" .Params.Image "Alt" .Title "Class" "wp-image-37" ) }}
-                </div>
+                {{ partial "image.html" (dict "Src" .Params.Image "Alt" .Title "Class" "wp-image-37" ) }}
+              </div>
               <h3>{{ .Title }}</h3>
               <p>{{ .PublishDate | time.Format ":date_long" }}</p>
               <div class="wp-block-button is-style-outline"><a class="wp-block-button__link"
@@ -49,19 +49,24 @@
       <div class="wp-block-group alignwide has-background" style="background-color:#ffffff">
         <div class="wp-block-group__inner-container">
           <div class="wp-block-group">
+            <h3>{{ .title | markdownify }}</h3>
+            <br />
             <div class="wp-block-group__inner-container">
-              <h5 class="has-text-align-center">{{ .title | markdownify }}</h5s>
-              <p class="has-text-align-center">{{ .content | markdownify }}</p>
-              <div class="wp-block-button aligncenter"><a class="wp-block-button__link"
-                  href="{{ .button_url | absURL }}">{{ .button_label }}</a></div>
+              <h5>{{ .content | markdownify }}</h5>
             </div>
+            <br />
+            
+
+            {{ partial "subscribe_nocss.html" . }}
+
+
           </div>
         </div>
       </div>
       {{ end }}
       {{ end }}
 
-      
+
       {{ if .Site.Params.gallery.enable }}
       {{ with .Site.Params.gallery }}
       <div class="wp-block-gallery alignwide columns-2 is-cropped">
