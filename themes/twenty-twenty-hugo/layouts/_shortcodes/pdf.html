@@ -1,0 +1,8 @@
+{{ with resources.Get (.Get "src") }}
+    <div>
+        <p>PDF PREVIEW AND LINK</p>
+        <p>{{ .RelPermalink }}</p>
+        <br />
+        <a href="{{ .RelPermalink }}">{{ .RelPermalink }}</a>
+    </div>
+{{ end }}
