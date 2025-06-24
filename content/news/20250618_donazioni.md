@@ -34,3 +34,11 @@ Per l’oratorio in cui Emanuele è cresciuto e che rimarrà in futuro il punto 
 A gennaio, durante la giornata in ricordo di Emanuele, è emersa la volontà di riproporre un momento simile ogni anno, mantenendo lo stesso spirito informale della grigliata. Gli aggiornamenti su questa iniziativa, come su tutte le altre iniziative in programma - tra cui la piantumazione di alcuni alberi presso il Giardino dei Pompieri di Lissone, esplicitamente voluta da Emanuele - verranno riportati su questo sito, ma per rimanere aggiornati sui progetti e sui futuri eventi, abbiamo anche attivato la possibilità di iscriversi a una mailing list qui.
 
 È un modo per rimanere in contatto tra attività che ci uniscano ancora di più su una strada tracciata da lui. Un punto di partenza.
+
+
+
+{{< pdf src=/pdf/2025_Ciai.pdf >}}
+
+{{< pdf src=/pdf/2025_MSF.pdf >}}
+
+{{< pdf src=/pdf/2025_LaGoccia.pdf >}}

@@ -4,15 +4,8 @@
     
 
     <div>
-        <p>PDF PREVIEW AND LINK</p>
-        <p>{{ .RelPermalink }}</p>
-        <br />
-        <a href="{{ .RelPermalink }}">{{ .RelPermalink }}</a>
-
-
-        <img data-pdf-thumbnail-file="{{ .RelPermalink }}" data-pdf-thumbnail-width="200" width="200" src="pdf.png">
-
-
-
+        <a href="{{ .RelPermalink }}">
+            <img data-pdf-thumbnail-file="{{ .RelPermalink }}" data-pdf-thumbnail-width="200" width="200" src="pdf.png">
+        </a>
     </div>
 {{ end }}
