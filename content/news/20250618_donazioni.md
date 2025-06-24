@@ -5,7 +5,7 @@ image : "images/2025-06_donazioni.jpg"
 author : ["Redazione"]
 categories: ["news"]
 tags: ["donazioni"]
-description: "This is meta description"
+description: " "
 draft: false
 layout: "single"
 ---
@@ -15,7 +15,7 @@ Cari amici di Lele,
 
 innanzitutto ancora una volta grazie per la grande partecipazione alla raccolta fondi per Emanuele. La vostra generosità è stata speciale e vorremmo ora condividere con voi come sono stati destinati esattamente i fondi. 
 
-Abbiamo raccolto in tutto **20.856 euro**, devoluti in parti uguali a quattro realtà a cui Emanuele era legato e che rappresentano il tipo di impegno sociale e umano in cui credeva profondamente: CIAI, Msf, La Goccia e l’oratorio di San Giorgio.
+Abbiamo raccolto in tutto **20.856 euro**, devoluti in parti uguali a quattro realtà a cui Emanuele era legato e che rappresentano il tipo di impegno sociale e umano in cui credeva profondamente: CIAI, Msf, La Goccia e l’oratorio di San Giorgio. Le associazioni hanno ricevuto l’importo a loro destinato e ci hanno inviato delle lettere di ringraziamento che vorremmo condividere con voi (in allegato). Ecco come intendono impiegare i fondi ricevuti:
 
 **CIAI  Centro Italiano Aiuti all’Infanzia**
 Con CIAI, Emanuele ha lavorato su progetti di cooperazione internazionale per la tutela dell’infanzia, in particolare nei contesti più fragili.
