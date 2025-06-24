@@ -34,7 +34,7 @@
               <div class="wp-block-image alignfull size-full">
                 {{ partial "image.html" (dict "Src" .Params.Image "Alt" .Title "Class" "wp-image-37" ) }}
               </div>
-              <h3>{{ .Title }}</h3>
+              <h3><a href="{{ .Permalink }}"> {{ .Title }}</a></h3>
               <p>{{ .PublishDate | time.Format ":date_long" }}</p>
               <div class="wp-block-button is-style-outline"><a class="wp-block-button__link"
                   href="{{ .Permalink }}">Leggi di più</a></div>
