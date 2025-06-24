@@ -1,6 +1,12 @@
 title = 'Ciao Capitello'
 baseURL = "https://www.painfulstaff.com/capitello/"
 
+languageCode = "it_IT"
+defaultContentLanguage = "it"
+
+
+
+
 
 [params]
 description = "This is meta description"
@@ -14,8 +20,6 @@ heading = "Dove vorresti essere pensato? <br />Su una piroga, in giro"
 image = "images/capo.png"
 
 
-languageCode = "it_IT"
-defaultContentLanguage = "it"
 
 
 
