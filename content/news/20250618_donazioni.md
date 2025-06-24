@@ -2,12 +2,11 @@
 title: "UN PUNTO DI PARTENZA"
 date: 2025-06-24T10:00:24+06:00
 image : "images/2025-06_donazioni.jpg"
-author : ["Redazione"]
+author : ["Amici di Emanuele"]
 categories: ["news"]
 tags: ["donazioni"]
 description: " "
 draft: false
-layout: "single"
 ---
 
 
