@@ -6,7 +6,7 @@ author : ["begna"]
 categories: ["news"]
 tags: ["donazioni"]
 description: " "
-draft: false
+draft: true
 layout: "single"
 ---
 
