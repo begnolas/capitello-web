@@ -7,6 +7,7 @@ categories: ["news"]
 tags: ["donazioni"]
 description: " "
 draft: false
+layout: "single"
 ---
 
 
