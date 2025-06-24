@@ -1,15 +1,15 @@
 title = 'Ciao Capitello'
-baseURL = "https://www.painfulstaff.com/capitello/"
+baseURL = 'https://capitello-demo.netlify.app/'
 
-languageCode = "it_IT"
-defaultContentLanguage = "it"
+languageCode = 'it_IT'
+defaultContentLanguage = 'it'
 
 
 
 
 
 [params]
-description = "This is meta description"
+description = 'Uno spazio dove ricordare Lele e proseguire il suo impegno.'
 author = "begnolas"
 
 
