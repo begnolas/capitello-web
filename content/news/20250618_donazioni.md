@@ -37,8 +37,4 @@ A gennaio, durante la giornata in ricordo di Emanuele, è emersa la volontà di 
 
 
 
-{{< pdf src=/pdf/2025_Ciai.pdf >}}
-
-{{< pdf src=/pdf/2025_MSF.pdf >}}
-
-{{< pdf src=/pdf/2025_LaGoccia.pdf >}}
+{{< pdf src=/pdf/2025_Ciai.pdf >}}   {{< pdf src=/pdf/2025_MSF.pdf >}}   {{< pdf src=/pdf/2025_LaGoccia.pdf >}}
