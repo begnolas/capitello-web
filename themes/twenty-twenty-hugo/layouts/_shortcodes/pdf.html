@@ -1,8 +1,18 @@
 {{ with resources.Get (.Get "src") }}
+
+    <script src="pdfThumbnails.js" data-pdfjs-src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.5.207/pdf.js"></script>
+    
+
     <div>
         <p>PDF PREVIEW AND LINK</p>
         <p>{{ .RelPermalink }}</p>
         <br />
         <a href="{{ .RelPermalink }}">{{ .RelPermalink }}</a>
+
+
+        <img data-pdf-thumbnail-file="{{ .RelPermalink }}" data-pdf-thumbnail-width="200" width="200" src="pdf.png">
+
+
+
     </div>
 {{ end }}

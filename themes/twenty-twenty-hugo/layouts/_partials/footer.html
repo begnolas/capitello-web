@@ -75,6 +75,13 @@
 {{ $search := resources.Get "js/search.js" | minify}}
 <script src="{{ $search.Permalink }}"></script>
 
+
+{{ "<!-- pdfThumbnails.js -->" | safeHTML }}
+{{ $search := resources.Get "js/pdfThumbnails.js" | minify}}
+<script src="{{ $search.Permalink }}"  data-pdfjs-src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.5.207/pdf.js"></script>
+    
+
+
 <!--
 <script src="{{`plugins/search.js` | absURL }}"></script>
 -->
