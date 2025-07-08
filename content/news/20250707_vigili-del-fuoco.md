@@ -1,7 +1,7 @@
 ---
 title: "TITOLO"
 date: 2025-07-07T10:00:24+06:00
-#image : "images/2025-06_donazioni.jpg"
+image : "images/2015_07_08_vigili-del-fuoco.jpg"
 author : ["Amici di Emanuele"]
 categories: ["news"]
 tags: ["pompieri", "ricordo"]
