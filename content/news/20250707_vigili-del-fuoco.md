@@ -24,3 +24,8 @@ Siamo molto contenti del risultato ottenuto e vogliamo tenervi aggiornati non ap
 Alla prossima e grazie!
 
 **VOGLIAMO METTERE QUALCOSA TIPO “Se qualcuno ha idee, contatti con aziende che si occupano di giochi pubblici ecc/ si senta libero di scriverci”. Oppure forse – se ben mi ricordo – c’erano già stati dei contatti con delle aziende. Per il verde invece se ne occupa il signore che c’era alla grigliata giusto? Se volete fare una chiusa diversa ditemi pure**
+
+
+
+
+{{< pdf src=/pdf/20250314_PEC-ComuneDiLissone.pdf >}}
