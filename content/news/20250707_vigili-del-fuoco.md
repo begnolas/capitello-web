@@ -1,7 +1,7 @@
 ---
-title: "TITOLO"
+title: "Un giardino in memoria di Lele"
 date: 2025-07-07T10:00:24+06:00
-image : "2025_07_08_vigili-del-fuoco.jpg"
+image : "images/2025_07_08_vigili-del-fuoco.jpg"
 author : ["Amici di Emanuele"]
 categories: ["news"]
 tags: ["pompieri", "ricordo"]
