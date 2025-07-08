@@ -53,9 +53,9 @@
 $(document).ready(function() {
     $('#check').on('change', function() {
         if ($(this).is(':checked')) {
-            $('#mc-embedded-subscribe').prop('type', "submit"); // Disable button
+            $('#mc-embedded-subscribe').prop('disabled', false); // Disable button
         } else {
-            $('#mc-embedded-subscribe').prop('type', ""); // Enable button
+            $('#mc-embedded-subscribe').prop('disabled', true);; // Enable button
         }
     });
 });
