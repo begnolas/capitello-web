@@ -1,11 +1,11 @@
 ---
-title: "UN PUNTO DI PARTENZA"
+title: "Un punto di partenza"
 date: 2025-06-24T10:00:24+06:00
 image : "images/2025-06_donazioni.jpg"
 author : ["Amici di Emanuele"]
 categories: ["news"]
-tags: ["donazioni"]
-description: " "
+tags: ["donazioni" , "solidarietà"]
+description: "Donazione di oltre 20.000 euro a quattro realtà solidali care a Emanuele, per sostenere progetti di accoglienza, emergenza e comunità."
 draft: false
 layout: "single"
 ---
