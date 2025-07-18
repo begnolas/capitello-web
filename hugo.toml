@@ -4,7 +4,7 @@
   [[module.mounts]]
     disableWatch = false
     lang = ''
-    source = 'content'
+    source = './capitello-content/content'
     target = 'content'
   [[module.mounts]]
     disableWatch = false

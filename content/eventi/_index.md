@@ -1,5 +1,0 @@
----
-title: "Eventi"
----
-
-In aggiornamento.
