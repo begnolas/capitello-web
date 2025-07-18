@@ -1,0 +1,3 @@
+[submodule "capitello-content"]
+	path = capitello-content
+	url = https://github.com/begnolas/capitello-content.git
