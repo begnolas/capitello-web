@@ -1,32 +1,20 @@
 <!DOCTYPE html>
 <html class="no-js" lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
 
-{{ partial "head.html" . }}
+	{{ partial "head.html" . }}
 
-<body class="home page-template-default page wp-embed-responsive singular enable-search-modal has-post-thumbnail has-no-pagination not-showing-comments show-avatars footer-top-visible">
-	{{ partial "header.html" . }}
+	<body
+	class="home page-template-default page wp-embed-responsive singular enable-search-modal has-post-thumbnail has-no-pagination not-showing-comments show-avatars footer-top-visible">
+		{{ partial "header.html" . }}
 
-	<main id="site-content" role="main">
-		{{ block "main" . }}{{ end }}
-	</main>
-	
-	{{ partial "footer.html" . }}
-</body>
+		<main id="site-content" role="main">
+			{{ block "main" . }}{{ end }}
+		</main>
 
+		{{ partial "footer.html" . }}
+
+		<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js"
+			integrity="sha384-ndDqU0Gzau9qJ1lfW4pNLlhNTkCfHzAVBReH9diLvGRem5+R9g2FzA8ZGN954O5Q"
+			crossorigin="anonymous"></script>
+	</body>
 </html>
-
-
-
-<meta name="hugo_dev"  content="Kind: {{ .Kind }}  Type: {{ .Type }}  Layout: {{ .Layout }} " >
-<!--
-
-<br />
-<br />
-Kind: {{ .Kind }} 
-<br />
-Type: {{ .Type }}
-<br /> 
-Layout: {{ .Layout }} 
-<br />
-
--->
