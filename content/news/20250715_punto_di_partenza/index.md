@@ -1,10 +1,9 @@
 ---
 title: "Un punto di partenza"
-date: 2025-06-24T10:00:24+06:00
-image : "images/2025-06_partenza.jpg"
+date: 2025-07-15T10:00:24+06:00
+image : "head.jpg"
 author : ["Amici di Emanuele"]
 categories: ["news"]
-tags: ["donazioni" , "solidarietà"]
 description: "Donazione di oltre 20.000 euro a quattro realtà solidali care a Emanuele, per sostenere progetti di accoglienza, emergenza e comunità."
 draft: false
 layout: "single"
@@ -44,3 +43,20 @@ A gennaio, durante la giornata in ricordo di Emanuele, è emersa la volontà di 
 
 
 {{< pdf src=/pdf/2025_LaGoccia.pdf >}}
+
+
+
+
+
+{{< flip.inline >}}
+
+{{ $file := .Page.Resources.Get "img.jpg" }}
+
+{{ $flippedfile := $file.Resize "1034x r180" }}
+
+<img
+  src="{{ $flippedfile.RelPermalink }}"
+  alt="flipped Twitter bird"
+>
+
+{{< /flip.inline >}}
