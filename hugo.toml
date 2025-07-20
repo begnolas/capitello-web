@@ -75,7 +75,7 @@ button = "Accetto"
 
 # blog
 [params.news]
-heading = "Uno spazio dove ricordare Lele e proseguire il suo impegno."
+heading = "Uno spazio dove ricordare Lele e proseguire il suo impegno"
 
 
 # call to action
@@ -109,7 +109,7 @@ image = "images/gallery_04.png"
 # footer
 [params.footer]
 title = "About"
-content = "Uno spazio dove ricordare Lele e proseguire il suo impegno."
+content = "Uno spazio dove ricordare Lele e proseguire il suo impegno"
 copyright = "Copyright &copy; 2025. Handcrafted."
 
 
