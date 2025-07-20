@@ -1,25 +1,3 @@
-# https://gohugo.io/configuration/module/#mounts
-
-[module]
-  [[module.mounts]]
-    disableWatch = false
-    lang = ''
-    source = 'content'
-    target = 'content'
-  [[module.mounts]]
-    disableWatch = false
-    lang = ''
-    source = 'assets'
-    target = 'assets'
-
-
-
-
-
-
-
-
-
 title = 'Ciao Capitello'
 baseURL = 'https://capitello-staging.netlify.app/'
 

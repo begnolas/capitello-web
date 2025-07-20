@@ -32,7 +32,10 @@
           <div class="wp-block-group">
             <div class="wp-block-group__inner-container">
               <div class="wp-block-image alignfull size-full">
-                {{ partial "image.html" (dict "Src" .Params.Image "Alt" .Title "Class" "wp-image-37" ) }}
+                
+                {{ with .Resources.Get "img.jpg" }}
+			            <img src="{{ .RelPermalink }}" alt="{{ .Title }}" class="wp-image-37" >
+	              {{end}}
               </div>
               <h3><a href="{{ .Permalink }}"> {{ .Title }}</a></h3>
               <p>{{ .PublishDate | time.Format ":date_long" }}</p>
