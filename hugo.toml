@@ -21,7 +21,7 @@
 
 
 title = 'Ciao Capitello'
-baseURL = 'https://capitello-demo.netlify.app/'
+baseURL = 'https://capitello-staging.netlify.app/'
 
 languageCode = 'it_IT'
 defaultContentLanguage = 'it'
