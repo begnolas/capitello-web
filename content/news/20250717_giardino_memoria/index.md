@@ -26,6 +26,8 @@ Se qualcuno ha idee o contatti con aziende che si occupano di giochi pubblici, s
 Alla prossima e grazie!
 
 
-{{< pdf src=/pdf/20250214_Richiesta-di-intitolazione.pdf >}}
 
-{{< pdf src=/pdf/20250314_PEC-ComuneDiLissone.pdf >}}
+{{< pdf src="richiesta.pdf" >}}
+
+
+{{< pdf src="risposta.pdf" >}}

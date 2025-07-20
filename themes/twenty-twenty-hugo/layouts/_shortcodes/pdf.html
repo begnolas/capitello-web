@@ -1,4 +1,4 @@
-{{ with resources.Get (.Get "src") }}
+{{ with .Page.Resources.Get (.Get "src") }}
 <div>
     <a href="{{ .RelPermalink }}" target="_blank" rel="noopener noreferrer">
         <img data-pdf-thumbnail-file="{{ .RelPermalink }}" data-pdf-thumbnail-width="200" width="200"

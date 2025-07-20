@@ -36,27 +36,12 @@ A gennaio, durante la giornata in ricordo di Emanuele, è emersa la volontà di 
 
 
 
-{{< pdf src=/pdf/2025_Ciai.pdf >}}
+{{< pdf src="ciai.pdf" >}}
 
 
-{{< pdf src=/pdf/2025_MSF.pdf >}}
+{{< pdf src="msf.pdf" >}}
 
 
-{{< pdf src=/pdf/2025_LaGoccia.pdf >}}
+{{< pdf src="laGoccia.pdf" >}}
 
 
-
-
-
-{{< flip.inline >}}
-
-{{ $file := .Page.Resources.Get "img.jpg" }}
-
-{{ $flippedfile := $file.Resize "1034x r180" }}
-
-<img
-  src="{{ $flippedfile.RelPermalink }}"
-  alt="flipped Twitter bird"
->
-
-{{< /flip.inline >}}
