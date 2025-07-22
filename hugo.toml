@@ -1,5 +1,5 @@
-title = 'Ciao Capitello'
-baseURL = 'https://capitello-demo.netlify.app/'
+title = 'Ciao Emanuele'
+baseURL = 'https://www.ciaoemanuele.it/'
 
 languageCode = 'it_IT'
 defaultContentLanguage = 'it'
@@ -9,7 +9,7 @@ defaultContentLanguage = 'it'
 
 
 [params]
-description = 'Uno spazio dove ricordare Lele e proseguire il suo impegno.'
+description = 'Uno spazio dove ricordare Lele e proseguire il suo impegno'
 author = "begnolas"
 
 
@@ -53,7 +53,7 @@ button = "Accetto"
 
 # blog
 [params.news]
-heading = "Uno spazio dove ricordare Lele e proseguire il suo impegno."
+heading = "Uno spazio dove ricordare Lele e proseguire il suo impegno"
 
 
 # call to action
@@ -87,7 +87,7 @@ image = "images/gallery_04.png"
 # footer
 [params.footer]
 title = "About"
-content = "Uno spazio dove ricordare Lele e proseguire il suo impegno."
+content = "Uno spazio dove ricordare Lele e proseguire il suo impegno"
 copyright = "Copyright &copy; 2025. Handcrafted."
 
 
