@@ -2603,7 +2603,7 @@ h2.entry-title {
 }
 
 .singular .featured-media::before {
-	/*background: #fff; */
+	background: #fff;
 	content: "";
 	display: block;
 	position: absolute;
