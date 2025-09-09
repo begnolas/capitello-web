@@ -1,5 +1,5 @@
 title = 'Ciao Emanuele'
-baseURL = 'https://www.ciaoemanuele.it/'
+baseURL = 'https://capitello-staging.netlify.app/'
 
 languageCode = 'it_IT'
 defaultContentLanguage = 'it'

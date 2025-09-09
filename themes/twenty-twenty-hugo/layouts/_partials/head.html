@@ -1,11 +1,14 @@
 <head>
   <meta charset="utf-8">
   <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
-  <meta name="google-site-verification" content="N4-bMCnpfnnucRpJWG3cu46AF7c6m9_dI1r_LBqLNuQ" />
-  <meta name="hugo_dev" content="Kind: {{ .Kind }}  Type: {{ .Type }}  Layout: {{ .Layout }} ">
-  <meta name="description" content="{{ with .Params.Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
-  {{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
 
+  <meta name="hugo_dev" content="Kind: {{ .Kind }}  Type: {{ .Type }}  Layout: {{ .Layout }} ">
+
+
+  <meta name="description"
+    content="{{ with .Params.Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
+  {{ with .Site.Params.author }}
+  <meta name="author" content="{{ . }}">{{ end }}
   {{ hugo.Generator }}
 
   {{ "<!-- mobile responsive meta -->" | safeHTML }}
