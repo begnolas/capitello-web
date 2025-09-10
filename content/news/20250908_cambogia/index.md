@@ -6,7 +6,7 @@ author : ["Amici di Emanuele"]
 categories: ["news"]
 tags: ["cambogia", "ricordo"]
 description: "Ciai ha investito la donazione nel Centro di Andong in Cambogia, piantando un albero in memoria di Lele."
-draft: false
+draft: true
 layout: "single"
 ---
 
